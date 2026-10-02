@@ -1,1 +1,1 @@
-RouteGuard live OpenShell-GitHub exact-effect composition 0.11.0.
+RouteGuard live GitHub independent observation and retention composition 0.12.0.
